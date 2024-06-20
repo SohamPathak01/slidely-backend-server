@@ -1,6 +1,3 @@
-Create a README.md file with instructions:
-
-markdown
 Copy code
 # Backend Server
 
