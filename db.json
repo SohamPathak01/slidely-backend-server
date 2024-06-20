@@ -1,25 +1,11 @@
 {
   "submissions": [
     {
-      "name": "Mihid",
-      "email": "Bhahdsbh@gmail.com",
-      "phone": 654254,
-      "github_link": "sdfagdfghubsadfvuhgssduyg",
-      "stopwatch_time": 1115
-    },
-    {
-      "name": "jamy",
-      "email": "jamy@gmail.com",
-      "phone": 65436254,
-      "github_link": "sdfagdfgjhdgfhjagfhubsadfvuhgssduyg",
-      "stopwatch_time": 1545615
-    },
-    {
       "name": "goku",
       "email": "goku@gmail.com",
-      "phone": 12345,
-      "github_link": "github/goku01.com",
-      "stopwatch_time": 815
+      "phonenum": 12345,
+      "githublink": "github/goku01.com",
+      "stopwatchtime": "00:00:15"
     },
     {
       "Name": "Gohan",
@@ -28,19 +14,12 @@
       "GithubLink": "github/panchan.com",
       "StopwatchTime": "00:00:06"
     },
-    {
-      "Name": "",
-      "Email": "",
-      "PhoneNum": "",
-      "GithubLink": "",
-      "StopwatchTime": "00:00:02"
-    },
-    {
-      "Name": "",
-      "Email": "",
-      "PhoneNum": "",
-      "GithubLink": "",
-      "StopwatchTime": "00:00:08"
+   {
+      "Name": "Vegita",
+      "Email": "princeOfSayan@pride.com",
+      "PhoneNum": "147985465",
+      "GithubLink": "github/royalblood.com",
+      "StopwatchTime": "00:00:59"
     }
   ]
 }
