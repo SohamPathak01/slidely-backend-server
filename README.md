@@ -20,3 +20,9 @@ Start the server:
 sh
 Copy code
 node dist/index.js
+
+
+Installation
+Clone the Repository:
+git clone https://github.com/your-username/desktop-app-submissions.git
+cd desktop-app-submissions
