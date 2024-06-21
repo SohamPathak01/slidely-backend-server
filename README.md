@@ -22,7 +22,9 @@ Copy code
 node dist/index.js
 
 
-Installation
-Clone the Repository:
-git clone https://github.com/your-username/desktop-app-submissions.git
-cd desktop-app-submissions
+### Installation
+
+1. **Clone the Repository:**
+   ```sh
+   git clone https://github.com/your-username/desktop-app-submissions.git
+   cd desktop-app-submissions
